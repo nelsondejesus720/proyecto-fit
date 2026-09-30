@@ -1,0 +1,29 @@
+Hola
+
+Esta aplicación móvil es para el seguimiento del entrenamiento en casa, de forma fácil y organizada, con rutinas personalizadas para cualquier persona.
+
+Ya que muchas personas quieren ejercitarse en su casa, pero abandonan por no tener rutinas adecuadas desmotivacion o por su nivel, por no llevar un registro claro de su progreso y por falta de motivación.
+
+Esta app es para cualquier edad y nivel físico que desean entrenar en casa de forma organizada, ya sean principiantes que necesitan orientación o usuarios con experiencia que buscan constancia y seguimiento de su progreso.
+
+
+## requisitos
+1. Inicio de sesión 
+2. Selección de rutinas
+3. Seguimiento 
+4. recompensas
+5. Recordatorios
+
+
+Su arquitectura es en capas: presentación, lógica de negocio y datos.
+La primera versión implementa únicamente la capa de presentación, con datos de prueba y sin backend real.
+
+
+## metodologia
+Scrum
+
+## Modelado
+
+Diagramas realizados en Visual Paradigm Online 
+
+
